@@ -14,7 +14,6 @@
     "organization": "Your Organization",
     "timeline": "May 2026 - September 2026",
    "repositories": [
-      "https://github.com/OWASP-BLT/BLT",
       "https://github.com/OWASP-BLT/BLT-Design",
 
 
@@ -27,11 +26,23 @@
     ]
   },
   "slack": {
-    "workspaceUrl": "https://owasp.slack.com/join/shared_invite/zt-xyz",
-    "channels": [
-      "general",
-      "gsoc-2024",
-      "blt-project"
-    ]
-  }
+    "workspaceUrl": "https://join.slack.com/t/owasp/shared_invite/zt-3r8n76i44-5sxdUp8UixsCs1Rm7KHRaw",
+    "channels": ["general", "gsoc-2026", "your-project-channel"]
+  },
+  "mentors": [
+    {
+      "name": "Mentor Name",
+      "email": "mentor@example.com",
+      "avatar": "https://github.com/MENTOR-USERNAME.png",
+      "role": "Lead Mentor",
+      "github": "https://github.com/MENTOR-USERNAME"
+    },
+    {
+      "name": "Co-Mentor Name",
+      "email": "co-mentor@example.com",
+      "avatar": "https://github.com/CO-MENTOR-USERNAME.png",
+      "role": "Co-Mentor",
+      "github": "https://github.com/CO-MENTOR-USERNAME"
+    }
+  ]
 }
