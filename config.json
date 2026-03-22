@@ -28,7 +28,9 @@
       "https://github.com/OWASP-BLT/BLT-University",
       "https://github.com/OWASP-BLT/.github",
       "https://github.com/OWASP-BLT/BLT-API",
-      "https://github.com/OWASP-BLT/BLT-SafeCloak/"
+      "https://github.com/OWASP-BLT/BLT-SafeCloak",
+      "https://github.com/OWASP-BLT/BLT-Toasty"
+
     ]
   }
 }
